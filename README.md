@@ -32,3 +32,6 @@
 <br />
 # Dashboard Interativo
 - [Clique aqui para visualizar o dashboard de maneira interativa](https://app.powerbi.com/view?r=eyJrIjoiNGI2MmM2NTUtMWFiYS00ODU2LWJlMDgtODE3MDMwMDUwYThlIiwidCI6IjcwY2NiOWM1LTc4NjgtNGYxMi05NTUxLTJjYmE1YTE5NWUxYyJ9)
+<br />
+
+![Overview](Overview.png)
