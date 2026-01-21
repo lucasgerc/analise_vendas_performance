@@ -48,22 +48,34 @@
  <br />
 
 - **Como anda o lucro obtidos nos produtos, marcas e categorias?** <br />
-  Analisando a parte dos lucros, nas categorias podemos observar que em todos os anos celular apresentou o maior lucro, bem pelo fato de uma relação postiiva entre custo total e lucro total. <br />
+  Analisando a parte dos lucros, nas categorias podemos observar que em todos os anos celular apresentou o maior lucro, devido a uma relação postiiva entre custo total e lucro total. <br />
   Os celulares da marca Apple são os que apresentam o maior lucro na categoria. A marca Dell é campeã de venda da categoria notebook, enquanto as outras marcas Acer e Samsung andam lado a lado no lucro.<br />
   Televisão é um produto pouco rentável, apresenta uma baixa margem de lucro, tendo uma relação entre custo total e lucro total muito negativa.<br />
   A maior margem de lucro das categorias é representada pela Câmera que possui três marcas Dell, Nikon e Sony que todas tem um lucro parecido e muito alto.
  <br />
 
-- **Como anda as devoluções, lojas cumprindo a meta de 3% do total de pedidos?** <br />
+- **Como estão as devoluções, lojas cumprindo a meta de 3% do total de pedidos?** <br />
   Explorando o dashboard pode ser analisado que existem muitas lojas que não estão conseguindo manter as devoluções abaixo da meta.
  <br />
 
- - **Como anda as metas de faturamento e de pedidos?** <br />
+ - **Como estão as metas de faturamento e de pedidos?** <br />
 Na página de Desempenho x Meta podemos analisar que a meta é sempre em relação ao mês anterior a fim de obter sempre crescimento nas vendas, e que em alguns meses com vendas baixas essas metas não são alcançadas. <br />
 Os pedidos mensais sempre são comparados ao ano anterior e a loja consegue realizar muitas vendas mas fica a desejar em alguns meses no faturamento.
 <br />
 
-# BÔNUS - Dica de Ferramenta - Tooltip
+## 🧭 Tooltips e Interações
 
+Este dashboard utiliza tooltips customizadas para:
+- Detalhar métricas por categoria de produto
+- Explicar variações de performance
+- Contextualizar dados ao passar o mouse
+- Mostrar desempenho de pedidos e devoluções das lojas
+
+🎥 Vídeo demonstrativo:  
+👉 [Tooltip](https://www.youtube.com/watch?v=V0xGE66SVuA) 
+<br />
+
+## 📌 Conclusão
+Este projeto demonstra a aplicação prática de análise de dados para suporte à tomada de decisão, utilizando visualizações claras, métricas relevantes e foco em problemas reais do negócio.
   
   
